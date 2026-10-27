@@ -1,4 +1,4 @@
-// Claude bridge for the TI-84 Plus CE "welcome ~." program.
+// the TI-84 Plus CE "welcome ~." program.
 //
 // The calculator sends one line per message over USB serial. This board
 // asks the Claude API over Wi-Fi and sends back one line:
